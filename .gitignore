@@ -1,0 +1,29 @@
+# === Java / Maven ===
+backend/target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# === Node / React ===
+frontend/node_modules/
+frontend/dist/
+
+# === IDE ===
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+.settings/
+.project
+.classpath
+
+# === OS ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Freebuff ===
+.freebuff/
